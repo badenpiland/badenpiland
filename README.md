@@ -1,15 +1,20 @@
-# Baden Piland
+# baden piland
 
-Support team lead in enterprise managed services. I build the on-call, alerting, and process side of support. 16+ years in tech support, from the Apple Genius Bar on.
+support team lead by day. 16+ years in tech support, starting at the apple genius bar. i like fixing the process before building the tool.
 
-On my own time I build small tools for [Omarchy](https://omarchy.org), the opinionated Arch/Hyprland setup. I spec the work, direct AI agents, test it, and ship. I'm not a software engineer, and I don't claim to be. Dad.
+on my own time i build small tools for [omarchy](https://omarchy.org). i write the spec, point ai agents at it, test hard, and ship. not a software engineer. builder, tinkerer, dad.
 
-## Things I made
+## what i work with
+- linux and windows servers in the cloud: patching, upgrades, incidents, ansible/awx
+- on-call and alerting: monitoring to tickets to a 24/7 paging rotation
+- arch linux daily (omarchy, hyprland) and a homelab
+- javascript, python, and shell, written by agents, tested and shipped by me
 
-- [**omareader**](https://github.com/badenpiland/omareader): Chromium extension that restyles pages to the active Omarchy theme. Open tabs follow when the theme changes. ([v0.3.1](https://github.com/badenpiland/omareader/releases/tag/v0.3.1))
+## how i ship
+spec first. tests and lint gate every release. tagged versions. real docs.
 
-## Elsewhere
+## things i made
+- [omareader](https://github.com/badenpiland/omareader): chromium extension that matches web pages to your omarchy theme, live (v0.3.1)
 
-- [badenpiland.com](https://badenpiland.com)
-- [x.com/badenpiland](https://x.com/badenpiland)
-- [linkedin.com/in/badenpiland](https://www.linkedin.com/in/badenpiland)
+## elsewhere
+[badenpiland.com](https://badenpiland.com) · [x.com/badenpiland](https://x.com/badenpiland) · [linkedin.com/in/badenpiland](https://www.linkedin.com/in/badenpiland)
